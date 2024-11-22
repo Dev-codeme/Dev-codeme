@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN, DSA**
 
-- 👨‍💻 All of my projects are available at [https://itsdevmeportfolio.netlify.app/](https://itsdevmeportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Dev-codeme?tab=repositories](https://github.com/Dev-codeme?tab=repositories)
 
 - 📫 How to reach me **devanand4537@gmail.com**
 
