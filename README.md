@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devanand4537@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1PVVoKV5hIqNAjDkO6YLL0vNHs-Dvb9LL)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19w4dNzl7GHiM1icLiudjEPa4fM_Cb69V/view?usp=sharing)
 
 </br>
 </br>
