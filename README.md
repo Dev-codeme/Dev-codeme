@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devanand4537@gmail.com**
 
-- 📄 Know about my experiences [https://itsdevmeportfolio.netlify.app/assets/MyResume.pdf](https://itsdevmeportfolio.netlify.app/assets/MyResume.pdf)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1PVVoKV5hIqNAjDkO6YLL0vNHs-Dvb9LL)
 
 </br>
 </br>
